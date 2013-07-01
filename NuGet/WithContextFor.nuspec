@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WithContextFor</id>
+    <version>1.0.0</version>
+    <authors>Attila Nagy</authors>
+    <owners>Attila Nagy</owners>
+    <licenseUrl>https://github.com/gyanta/WithContextFor/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/gyanta/WithContextFor</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Superlightweight automocking context for MSpec with NSubstitute</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright></copyright>
+    <tags>WithContextFor AutoMockingContext MSpec NSubstitute</tags>
+    <dependencies>
+      <dependency id="NSubstitute" version="" />
+      <dependency id="Machine.Specifications" version="" />
+    </dependencies>
+  </metadata>
+</package>
